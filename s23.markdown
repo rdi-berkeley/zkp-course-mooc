@@ -30,8 +30,8 @@ permalink: /s23
     <tr>
       <td>Stanford</td>
       <td>UC Berkeley</td>
-      <td>Georgetown University</td>
       <td>UC Berkeley</td>
+      <td>Georgetown University</td>
       <td>Texas A&M University</td>
     </tr>
   </tbody>
