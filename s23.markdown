@@ -54,7 +54,7 @@ January 17, 2023
 
 ## Syllabus (subject to change)
 
-<iframe id="syllabus" src="https://berkeley-defi.github.io/f22_syllabus" width="100%" height="700" frameborder=0> </iframe>
+<iframe id="syllabus" src="https://rdi.berkeley.edu/berkeley-defi/f22_syllabus" width="100%" height="700" frameborder=0> </iframe>
 <!-- 
 ## TAs
 TBD
