@@ -39,7 +39,7 @@ permalink: /
 
 ## Syllabus (subject to change)
 
-<iframe id="syllabus" src="https://rdi.berkeley.edu/zkp-course/s23_syllabus" width="100%" height="1300" frameborder=0> </iframe>
+<iframe id="syllabus" src="https://rdi.berkeley.edu/zkp-course/s23_syllabus" width="100%" height="1100" frameborder=0> </iframe>
 
 ## Course Description
 This class aims to bring together students and experts in academia and industry to explore Zero-Knowledge Proofs (ZKP). ZKP is a classical cryptographic primitive that ensures the validity of data and computations without sacrificing their confidentiality. It was proposed in the seminal paper by Goldwasser-Micali-Rackoff in 1985. Long considered wildly impractical, ZKPs have seen enormous efficiency improvements over the last decade. This has unlocked entirely new paradigms in the design of distributed and trustless systems, making ZKP one of the most important technologies to the future of blockchains. ZKPs are already being used to build privacy-preserving cryptocurrencies and to improve scalability via zkRollups and zkEVMs, and they stand poised to transform society’s mechanisms for establishing trust and privacy in the coming years and decades.
