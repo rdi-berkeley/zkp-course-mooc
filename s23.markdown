@@ -150,6 +150,10 @@ permalink: /
 - Programming Lab
 - Homework
 
+### Quizzes
+
+All quizzes are released in parallel with (or shortly after) the corresponding lecture and will be due midnight the following Tuesday. Please remember to complete the quiz each week. Although it's graded on completion, we encourage you to do your best. The questions are all multiple-choice.
+
 ## Course Completion NFTs
 
 We will distribute NFTs for completion of the course. Below are the rules for different tiers (subject to change):
