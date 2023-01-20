@@ -55,7 +55,7 @@ permalink: /
       </tr>
       <tr>
          <td>01/17</td>
-        <td>Introduction and History of ZKP <a href="https://youtu.be/uchjTIlPzFo"> | Lecture </a> </td>
+        <td>Introduction and History of ZKP | <a href="https://youtu.be/uchjTIlPzFo"> Lecture </a> </td>
       </tr>
       <tr>
          <td>01/24</td>
