@@ -40,6 +40,11 @@ permalink: /
   </tbody>
 </table>
 
+## Course Staff 
+
+* **TAs**: Deevashwer Rathee (Head TA)
+* **Readers**: Elden Ren, Vikhyath Mondreti
+
 ## Syllabus (subject to change)
 
 <table style="table-layout: fixed; font-size: 88%;" summary="Describes schedule of the course, which covers 4 sections: Introduction of ZKP, Efficient Constructions of ZKP; Applications of ZKP; Advanced Topics in ZKP.">
