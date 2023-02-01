@@ -101,7 +101,9 @@ permalink: /
       </tr>
       <tr>
          <td>01/31</td>
-         <td>Libraries and Compilers to build ZKP</td>
+         <td>Libraries and Compilers to build ZKP
+           | <a href='https://youtube.com/playlist?list=PLS01nW3RtgoqqvF39f11ncNAClgSLPlXD> Lecture </a>
+        </td>
       </tr>
       <tr>
          <td colspan=2 align=center> <b>2. Efficient Constructions of ZKP</b> </td>
