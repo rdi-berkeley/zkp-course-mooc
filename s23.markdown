@@ -102,7 +102,7 @@ permalink: /
       <tr>
          <td>01/31</td>
          <td>Libraries and Compilers to build ZKP
-           | <a href='https://youtube.com/playlist?list=PLS01nW3RtgoqqvF39f11ncNAClgSLPlXD> Lecture </a>
+           | <a href="https://youtube.com/playlist?list=PLS01nW3RtgoqqvF39f11ncNAClgSLPlXD"> Lecture </a>
              | <a href = "{{site.baseurl}}/assets/lecture3-2023.pdf"> Slides </a>
         </td>
       </tr>
