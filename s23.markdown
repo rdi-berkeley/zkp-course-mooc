@@ -83,7 +83,8 @@ permalink: /
       <tr>
          <td>01/24</td>
          <td>Overview of Modern SNARK Constructions
-           | <a href="https://youtube.com/playlist?list=PLS01nW3Rtgoo_0Y-X5bQ32SyDbMiGFqee"> Lecture </a>
+           | <a href = "https://youtu.be/bGEXYpt3sj0"> Lecture </a>
+           | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgoo_0Y-X5bQ32SyDbMiGFqee"> Playlist </a>
            | <a href = "https://forms.gle/94fRTqREjKnacyP3A"> Quiz </a>
            | <a href = "{{site.baseurl}}/assets/Lecture2-2023.pdf"> Slides </a>
            <br>
@@ -102,7 +103,8 @@ permalink: /
       <tr>
          <td>01/31</td>
          <td>Libraries and Compilers to build ZKP
-           | <a href="https://youtube.com/playlist?list=PLS01nW3RtgoqqvF39f11ncNAClgSLPlXD"> Lecture </a>
+           | <a href="https://youtu.be/UpRSaG6iuks"> Lecture </a>
+           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgoqqvF39f11ncNAClgSLPlXD"> Playlist </a>
            | <a href="https://forms.gle/WZZuArS4jmJuaAJR6"> Quiz </a>
            | <a href = "{{site.baseurl}}/assets/lecture3-2023.pdf"> Slides </a>
            <br>
