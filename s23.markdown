@@ -237,29 +237,22 @@ We will distribute NFTs for completion of the course. Below are the rules for di
 
 **Legendary Tier**: Students must:
 * Complete at least 12 quizzes on time (before the following lecture date as specified on the website); and
-* Receive a final grade of at least 24 out of 30 marks:
-    * (10 marks) Finish the HW by [due date].
-    * (20 marks) Finish the Lab by [due date].
+* Finish the HW by [due date].
+* Finish the Lab by [due date].
 
 **Ninja Tier**: Students must:
 * Complete at least 10 quizzes on time (before May 10th 2023 PST); and
-* Receive a final grade of at least 15 out of 40 marks:
-    * (10 marks) Finish the HW by [due date].
-    * (20 marks) Finish the Lab by [due date].
-    * (10 marks) Post an article online about a relevant topic covered in this course or your experience of the course, and tweet about the article.
-        * for example a blog post on:
-            * Summarizing information from certain lectures
-            * Specific zk-proof protocols
-            * Applications of zk-proofs such as privacy or blockchain scaling.
-        * The article’s marking criteria can be found below:
-            * Understanding (3 marks): displays breadth/depth of understanding of the topic.
-            * Importance (2 marks): content conveys an important aspect of zk-proofs.
-            * Clarity (3 marks): explains complex concepts simply, clearly, and accurately.
-            * References (2 marks): cites the relevant lecture and reference material such as research papers properly.
+* Finish the HW by [due date].
+* Finish the Lab by [due date].
+* Post an article online about a relevant topic covered in this course or your experience of the course, and tweet about the article.
+    * for example a blog post on:
+          * Summarizing information from certain lectures
+          * Specific zk-proof protocols
+          * Applications of zk-proofs such as privacy or blockchain scaling.
 
 **Trailblazer Tier**:
 * Students must complete at least 10 quizzes before May 15th 2023 PST; and
-* Post two articles (examples and marking criteria same as above), tweet about them, and get at least 15 out of 20 total points before May 15th 2023 PST.
+* Post two articles (examples same as above) and tweet about them before May 15th 2023 PST.
 
 ## Course Description
 This class aims to bring together students and experts in academia and industry to explore Zero-Knowledge Proofs (ZKP). ZKP is a classical cryptographic primitive that ensures the validity of data and computations without sacrificing their confidentiality. It was proposed in the seminal paper by Goldwasser-Micali-Rackoff in 1985. Long considered wildly impractical, ZKPs have seen enormous efficiency improvements over the last decade. This has unlocked entirely new paradigms in the design of distributed and trustless systems, making ZKP one of the most important technologies to the future of blockchains. ZKPs are already being used to build privacy-preserving cryptocurrencies and to improve scalability via zkRollups and zkEVMs, and they stand poised to transform society’s mechanisms for establishing trust and privacy in the coming years and decades.
