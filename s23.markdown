@@ -246,9 +246,9 @@ We will distribute NFTs for completion of the course. Below are the rules for di
 * Finish the Lab by [due date].
 * Post an article online about a relevant topic covered in this course or your experience of the course, and tweet about the article.
   For example a blog post on:
-      * Summarizing information from certain lectures
-      * Specific zk-proof protocols
-      * Applications of zk-proofs such as privacy or blockchain scaling.
+  * Summarizing information from certain lectures
+  * Specific zk-proof protocols
+  * Applications of zk-proofs such as privacy or blockchain scaling.
 
 **Trailblazer Tier**:
 * Students must complete at least 10 quizzes before May 15th 2023 PST; and
