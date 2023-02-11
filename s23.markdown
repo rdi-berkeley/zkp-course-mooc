@@ -242,7 +242,6 @@ We will distribute NFTs for completion of the course. Below are the rules for di
 
 **Ninja Tier**: Students must:
 * Complete at least 10 quizzes on time (before May 10th 2023 PST); and
-* Finish the HW by [due date].
 * Finish the Lab by [due date].
 * Post an article online about a relevant topic covered in this course or your experience of the course, and tweet about the article.
   For example a blog post on:
