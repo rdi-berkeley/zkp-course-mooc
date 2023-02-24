@@ -187,7 +187,6 @@ permalink: /
             <ul>
             <li><a href="https://eprint.iacr.org/2017/1146">A Zero-Knowledge Version of vSQL</a></li>
             <li><a href="https://eprint.iacr.org/2017/1066.pdf">Bulletproofs: Short Proofs for Confidential Transactions and More</a></li>
-            <li>Last Week's Readings on Constant-Sized Polynomial Commitments</li>
             </ul>
            
         </td>
