@@ -195,7 +195,7 @@ permalink: /
          <td>02/28</td>
          <td>ZKP based on Error-Correcting Codes
            | <a href = "https://youtu.be/1S7ZjqG9uyI"> Lecture </a> 
-           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopEpcPnXiXsHPO8HsaGUgmd> Playlist </a> 
+           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopEpcPnXiXsHPO8HsaGUgmd"> Playlist </a> 
              | <a href = "{{site.baseurl}}/assets/lecture7.pdf"> Slides </a>
              
              <br> 
