@@ -9,7 +9,7 @@ permalink: /
 - [Add to your calendar](https://calendar.google.com/calendar/embed?src=c_57d8853ee170b853719e770fe38b4f9c0945e1b17e553ee4b4ab1e9d138b94ef%40group.calendar.google.com&ctz=America%2FLos_Angeles)
 - For general course content related questions, please join our [discord](https://discord.gg/z67NWXzFzj).
 - <b>Check Spam / Promotions to ensure MOOC emails are not missed.</b>
-- <b> Announcement: </b> You can Sign-Up and Learn More About the ZKP/Web3 Hackathon <a href = "https://rdi.berkeley.edu/zkp-web3-hackathon/"> here</a>!
+- <b> <i> Announcement: </i> </b> You can Sign-Up and Learn More About the ZKP/Web3 Hackathon <a href = "https://rdi.berkeley.edu/zkp-web3-hackathon/"> here</a>!
 
 ## Instructors
 
