@@ -222,6 +222,7 @@ permalink: /
          <td>Transparent ZKP
           | <a href = "https://youtu.be/A3edAQDPnDY"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgorRZsBnqch6gGBStZB9VVrM"> Playlist </a>
+             | <a href = "https://forms.gle/nG6aQCGbMTgsn9wz7"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture8.pdf"> Slides </a>
              
              <br>
