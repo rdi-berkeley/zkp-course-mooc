@@ -371,7 +371,7 @@ This course covers fundamental techniques to build ZKP protocols, tools to imple
 
 | Assignment            | Released  | Deadline
 | :-- | :-- | :--
-| [Lab](https://github.com/rdi-berkeley/zkp-mooc-lab) ([Submission](https://docs.google.com/forms/d/e/1FAIpQLSfn4TkmMEdWWBHqaKOtoEGUGsOHqlUYVhQ7NTICfOcyL9ltzw/viewform)) | 02/28     | 03/13
+| [Lab](https://github.com/rdi-berkeley/zkp-mooc-lab) ([Submission](https://docs.google.com/forms/d/e/1FAIpQLSfn4TkmMEdWWBHqaKOtoEGUGsOHqlUYVhQ7NTICfOcyL9ltzw/viewform)) ([Video Walkthrough](https://youtu.be/YaQRr--XwLI)) | 02/28     | 03/13
 | HW     | 04/04     | 04/17
 
 ## Class Start Date
