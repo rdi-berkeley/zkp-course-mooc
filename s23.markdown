@@ -60,8 +60,9 @@ permalink: /
         <td> Introduction and History of ZKP | 
           <a href = "https://www.youtube.com/watch?v=uchjTIlPzFo"> Lecture </a>
           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgorR09s4cIz3aFylYCrk8fv0"> Playlist </a>
-          | <a href = "https://forms.gle/Td2Kw3Btp9XBHw846"> Quiz </a>
-          | <a href = "{{site.baseurl}}/assets/Lecture1-2023-slides.pdf"> Slides </a>
+          | <a href ="https://forms.gle/CnjXgBkFmYM5PevL6"> Quiz </a>
+          | <a href="{{site.baseurl}}/assets/Lecture1-2023-slides.pdf"> Slides </a>
+          | <a href="{{site.baseurl}}/assets/Disc1.pdf"> Notes </a>
           <br>
           <br>
           <b> Readings </b>
@@ -83,31 +84,30 @@ permalink: /
 
       <tr>
          <td>01/24</td>
-         <td>Overview of Modern SNARK Constructions
-           | <a href = "https://youtu.be/bGEXYpt3sj0"> Lecture </a>
-           | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgoo_0Y-X5bQ32SyDbMiGFqee"> Playlist </a>
-           | <a href = "https://forms.gle/94fRTqREjKnacyP3A"> Quiz </a>
-           | <a href = "{{site.baseurl}}/assets/Lecture2-2023.pdf"> Slides </a>
-           <br>
-           <br>
-           
-           <b> Readings </b>
+         <td>Overview of Modern SNARK Constructions 
+        | <a href = "https://youtu.be/bGEXYpt3sj0"> Lecture </a>
+        | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgoo_0Y-X5bQ32SyDbMiGFqee"> Playlist </a>
+        | <a href ="https://forms.gle/jyRJmNttcd2knFXz9"> Quiz </a>
+        | <a href="{{site.baseurl}}/assets/Lecture2-2023.pdf"> Slides </a>
+        | <a href="{{site.baseurl}}/assets/Disc2.pdf"> Notes </a>
+         <br> 
+         <br> 
+         <b> Readings </b>
           <ul>
             <li><a href= "https://www.cs.ubc.ca/~nickhar/W12/Lecture9Notes.pdf">Schwartz-Zippel Lemma - Section 1</a></li>
             <li><a href= "https://www.di.ens.fr/~nitulesc/files/Survey-SNARKs.pdf">Anca Nitulescu - zk-SNARKs: A Gentle Introduction</a></li>
             <li><a href= "https://medium.com/@boneh/using-zk-proofs-to-fight-disinformation-17e7d57fe52f">Using ZK Proofs to Fight Disinformation</a></li>
             <li><a href= "https://a16zcrypto.com/zero-knowledge-canon">Zero Knowledge Canon</a></li>
           </ul>
-
         </td>
       </tr>
       <tr>
          <td>01/31</td>
          <td>Libraries and Compilers to build ZKP
-           | <a href="https://youtu.be/UpRSaG6iuks"> Lecture </a>
-           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgoqqvF39f11ncNAClgSLPlXD"> Playlist </a>
-           | <a href="https://forms.gle/WZZuArS4jmJuaAJR6"> Quiz </a>
-           | <a href = "{{site.baseurl}}/assets/lecture3-2023.pdf"> Slides </a>
+          | <a href="https://youtu.be/UpRSaG6iuks"> Lecture </a>
+          | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgoqqvF39f11ncNAClgSLPlXD"> Playlist </a>
+           | <a href="https://forms.gle/9Q3PQzjFextViGE16"> Quiz </a>
+          | <a href = "{{site.baseurl}}/assets/lecture3-2023.pdf"> Slides </a>
            <br>
            <br>
           <b>Resources</b>
@@ -128,35 +128,35 @@ permalink: /
       <tr>
          <td>02/07</td>
          <td>Interactive Proofs (IP)
-           | <a href = "https://youtu.be/4018OYyoAf8"> Lecture </a>
-           | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopePvLcZgMJK8gC5trUWVsT"> Playlist </a> 
-           | <a href = "https://forms.gle/KghozdFAvXuenHdp6"> Quiz </a>
-           | <a href = "{{site.baseurl}}/assets/lecture4.pdf"> Slides </a>
-           <br>
-           <br> 
-           
-           <b>Readings</b>
-            <ul>
-            <li><a href="https://theory.cs.princeton.edu/complexity/book.pdf">Interactive Proofs and the Sum-Check Protocol</a></li>
-            <li><a href="https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf">Chapters 3 and 4 of [Thaler]</a></li>
-            <li><a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle Trees</a></li>
-            <li><a href="https://eprint.iacr.org/2014/846.pdf">Sum-Check-Based Polynomial IOPs for Circuit-SAT</a></li>
-          </ul>
-          <b>Other Helpful Resources</b>
-          <ul>
-            <li><a href="https://eprint.iacr.org/2019/550">Spartan</a></li>
-            <li><a href="https://eprint.iacr.org/2017/1132">Hyrax</a></li>
-            <li><a href="https://faculty.cc.gatech.edu/~genkin/papers/vsql.pdf">vSQL</a></li>
-            <li><a href="https://eprint.iacr.org/2019/317.pdf">Libra</a></li>
-          </ul>
-        </td>
+       | <a href = "https://youtu.be/4018OYyoAf8"> Lecture </a>
+       | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopePvLcZgMJK8gC5trUWVsT"> Playlist </a>
+       | <a href = "https://forms.gle/NcqyqsqAodu8HAPE8"> Quiz </a>
+       | <a href = "{{site.baseurl}}/assets/lecture4.pdf"> Slides </a>
+       <br>
+       <br> 
+       
+       <b>Readings</b>
+        <ul>
+        <li><a href="https://theory.cs.princeton.edu/complexity/book.pdf">Interactive Proofs and the Sum-Check Protocol</a></li>
+        <li><a href="https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf">Chapters 3 and 4 of [Thaler]</a></li>
+        <li><a href="https://en.wikipedia.org/wiki/Merkle_tree">Merkle Trees</a></li>
+        <li><a href="https://eprint.iacr.org/2014/846.pdf">Sum-Check-Based Polynomial IOPs for Circuit-SAT</a></li>
+      </ul>
+      <b>Other Helpful Resources</b>
+      <ul>
+        <li><a href="https://eprint.iacr.org/2019/550">Spartan</a></li>
+        <li><a href="https://eprint.iacr.org/2017/1132">Hyrax</a></li>
+        <li><a href="https://faculty.cc.gatech.edu/~genkin/papers/vsql.pdf">vSQL</a></li>
+        <li><a href="https://eprint.iacr.org/2019/317.pdf">Libra</a></li>
+      </ul>
+    </td>
       </tr>
       <tr>
          <td>02/14</td>
          <td>Plonk Interactive Oracle Proofs (IOP)
            | <a href = "https://youtu.be/A0oZVEXav24"> Lecture </a>
            | <a href = "https://youtube.com/playlist?list=PLS01nW3Rtgopdkrlu2-Lqgg7MKIS2vv2J"> Playlist </a>
-           | <a href = "https://forms.gle/j3VZ6iARCoCb16Qp6"> Quiz </a>
+           | <a href = "https://forms.gle/MrWBrWNjtHWaNsDBA"> Quiz </a>
            | <a href = "{{site.baseurl}}/assets/lecture5-2023.pdf"> Slides </a>
            <br>
            <br> 
@@ -170,19 +170,16 @@ permalink: /
               <li><a href="https://eprint.iacr.org/2022/1355">HyperPlonk: Plonk with Linear-Time Prover and High-Degree Custom Gates</a></li>
               <li><a href="https://zcash.github.io/halo2/concepts/arithmetization.html">PLONKish Arithmetization</a></li>
               </ul></td>
-        
       </tr>
       <tr>
-         <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.2. Polynomial Commitments</font> 
-           
-        </td>
+         <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">2.2. Polynomial Commitments</font> </td>
       </tr>
       <tr>
          <td>02/21</td>
          <td>Discrete-log-based Polynomial Commitments
-         | <a href = "https://youtu.be/WyT5KkKBJUw"> Lecture </a>
+        | <a href = "https://youtu.be/WyT5KkKBJUw"> Lecture </a>
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopRnH84Omx0C4yZo75uSHWO"> Playlist </a>
-           | <a href = "https://forms.gle/gyKY676K3DMc7kiFA"> Quiz </a>
+           | <a href = "https://forms.gle/uiiPZQjEqEmbSW437"> Quiz </a>
            | <a href = "{{site.baseurl}}/assets/lecture6.pdf"> Slides </a>
            
            <br>
@@ -195,13 +192,14 @@ permalink: /
             </ul>
            
         </td>
+    
       </tr>
       <tr>
          <td>02/28</td>
          <td>ZKP based on Error-Correcting Codes
-           | <a href = "https://youtu.be/1S7ZjqG9uyI"> Lecture </a> 
+        | <a href = "https://youtu.be/1S7ZjqG9uyI"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopEpcPnXiXsHPO8HsaGUgmd"> Playlist </a> 
-           | <a href = "https://forms.gle/7L1gk7VP6a9BYcaC8"> Quiz </a>
+           | <a href = "https://forms.gle/5qis42djSbxCH3rr5"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture7.pdf"> Slides </a>
              
              <br> 
@@ -214,18 +212,17 @@ permalink: /
                 <li><a href="https://eprint.iacr.org/2022/1010">Orion: Zero Knowledge Proof with Linear Prover Time</a></li>
                 <li><a href="https://eprint.iacr.org/2021/1043">Brakedown: Linear-time and post-quantum SNARKs for R1CS</a></li>
             </ul>
-
-           </td>
+        </td>
       </tr>
       <tr>
          <td>03/07</td>
-         <td>Transparent ZKP
+        <td>Transparent ZKP
           | <a href = "https://youtu.be/A3edAQDPnDY"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgorRZsBnqch6gGBStZB9VVrM"> Playlist </a>
-             | <a href = "https://forms.gle/nG6aQCGbMTgsn9wz7"> Quiz </a>
+          | <a href = "https://forms.gle/fXpx8HhgmbweLJQu9"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture8.pdf"> Slides </a>
-             
-             <br>
+          
+          <br>
              <br> 
              
              <b>Readings</b>
@@ -236,7 +233,7 @@ permalink: /
                 <li><a href="https://eprint.iacr.org/2019/1020">Polynomial Commitments from FRI</a></li>
                 <li><a href="https://eprint.iacr.org/2018/1004.pdf">Round-by-round Soundness, Fiat-Shamir, and Sum-check</a></li>
                 </ul>
-             
+          
           </td>
       </tr>
       <tr>
@@ -244,13 +241,13 @@ permalink: /
       </tr>
       <tr>
          <td>03/14</td>
-         <td>Linear Probabilistically Checkable Proofs (PCP)
+          <td>Linear Probabilistically Checkable Proofs (PCP)
           | <a href = "https://youtu.be/I7TXIHXamwM"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgorEgSixlZA2rJ-2q7_eAKe3"> Playlist </a>
-             | <a href = "https://forms.gle/nK8DtvAwcBuXGLeW7"> Quiz </a>
+            | <a href = "https://forms.gle/bCpdFz1QbdU5jEwR9"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture9.pdf"> Slides </a>
-             
-             <br>
+            
+            <br>
             <br>
 
               <b>Readings</b>
@@ -259,7 +256,7 @@ permalink: /
                 <li><a href="https://eprint.iacr.org/2013/279.pdf">Pinocchio</a></li>
                 <li><a href="https://eprint.iacr.org/2012/718">Succinct Non-Interactive Arguments via Linear Interactive Proofs</a></li>
                 <li><a href="https://eprint.iacr.org/2016/260.pdf">Groth16</a></li>
-                </ul>
+            </ul>
           </td>
       </tr>
       <tr>
@@ -268,13 +265,13 @@ permalink: /
       <tr>
          <td>03/21</td>
          <td>Recursive SNARKs, Aggregation and Accumulation
-          | <a href = "https://youtu.be/0LW-qeVe6QI"> Lecture </a> 
+        | <a href = "https://youtu.be/0LW-qeVe6QI"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopkbOmAfolTngGbnJ3SYmYu"> Playlist </a>
-             | <a href = "https://forms.gle/3mM7HLtQNruGU2Pv6"> Quiz </a>
+           | <a href = "https://forms.gle/AX24FKdR52hp1Sos6"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture10.pdf"> Slides </a>
-          <br>
-          <br>
-          <b>Readings</b>
+        <br>
+        <br> 
+        <b>Readings</b>
 
             <ul>
             <li><a href="https://medium.com/starkware/recursive-starks-78f8dd401025">Recursive STARK Proofs</a></li>
@@ -284,42 +281,34 @@ permalink: /
             <li><a href="https://eprint.iacr.org/2020/1618.pdf">Proof-Carrying Data without Succinct Arguments</a></li>
             <li><a href="https://eprint.iacr.org/2022/1576.pdf">Folding Schemes with Selective Verification</a></li>
             </ul>
-</td>
-          
+        </td>
       </tr>
       <tr>
          <td colspan=2 align=center> <font size="-0.5" style="font-weight: bolder">Spring Break (03/27 - 03/31)</font> </td>
       </tr>
       <tr>
-         <td colspan=2 align=center> <b>3. Applications of ZKP</b> </td>
+         <td colspan=2 align=center> <b>3. Applications and Advanced Topics in ZKP</b> </td>
       </tr>
-      <tr>
+     <tr>
          <td>04/04</td>
-         <td>Overview of Applications of ZKP</td>
+         <td>Theoretical Foundations &amp; Recent Theoretical Advancements</td>
       </tr>
       <tr>
          <td>04/11</td>
-         <td>Improving Blockchain Scalability: zkRollup and zkEVM</td>
+         <td>Overview of ZKP Applications &amp; zkRollup and zkEVM</td>
       </tr>
       <tr>
          <td>04/18</td>
          <td>Privacy-preserving Blockchains</td>
       </tr>
       <tr>
-         <td colspan=2 align=center> <b>4. Advanced Topics in ZKP</b> </td>
-      </tr>
-      <tr>
          <td>04/25</td>
-         <td>Theoretical Foundations &amp; Recent Theoretical Advancements</td>
+         <td>Formal Verification of ZKP</td>
       </tr>
       <tr>
          <td>05/02</td>
          <td>Hardware Acceleration of ZKP</td>
-      </tr>
-      <tr>
-         <td>05/09</td>
-         <td>Formal Verification of ZKP (Optional Lecture)</td>
-      </tr>
+     </tr>
    </tbody>
 </table>
 
