@@ -263,6 +263,7 @@ permalink: /
          <td>Recursive SNARKs, Aggregation and Accumulation
           | <a href = "https://youtu.be/0LW-qeVe6QI"> Lecture </a> 
            | <a href = "https://youtube.com/playlist?list=PLS01nW3RtgopkbOmAfolTngGbnJ3SYmYu"> Playlist </a>
+             | <a href = "https://forms.gle/3mM7HLtQNruGU2Pv6"> Quiz </a>
              | <a href = "{{site.baseurl}}/assets/lecture10.pdf"> Slides </a>
           <br>
           <br>
