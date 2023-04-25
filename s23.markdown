@@ -349,7 +349,7 @@ We will distribute NFTs for completion of the course. Below are the rules for di
 * Finish the Lab by [due date].
 
 **Ninja Tier**: Students must:
-* Complete at least 8 quizzes on time (before May 10th 2023 PST); and
+* Complete at least 8 quizzes on time (before May 5th 2023 PST); and
 * Finish the Lab by [due date].
 * Post an article online about a relevant topic covered in this course or your experience of the course, and tweet about the article.
   For example a blog post on:
@@ -358,8 +358,8 @@ We will distribute NFTs for completion of the course. Below are the rules for di
   * Applications of zk-proofs such as privacy or blockchain scaling.
 
 **Trailblazer Tier**:
-* Students must complete at least 8 quizzes before May 15th 2023 PST; and
-* Post two articles (examples same as above) and tweet about them before May 15th 2023 PST.
+* Students must complete at least 8 quizzes before May 5th 2023 PST; and
+* Post two articles (examples same as above) and tweet about them before May 5th 2023 PST.
 
 ## Course Description
 This class aims to bring together students and experts in academia and industry to explore Zero-Knowledge Proofs (ZKP). ZKP is a classical cryptographic primitive that ensures the validity of data and computations without sacrificing their confidentiality. It was proposed in the seminal paper by Goldwasser-Micali-Rackoff in 1985. Long considered wildly impractical, ZKPs have seen enormous efficiency improvements over the last decade. This has unlocked entirely new paradigms in the design of distributed and trustless systems, making ZKP one of the most important technologies to the future of blockchains. ZKPs are already being used to build privacy-preserving cryptocurrencies and to improve scalability via zkRollups and zkEVMs, and they stand poised to transform society’s mechanisms for establishing trust and privacy in the coming years and decades.
