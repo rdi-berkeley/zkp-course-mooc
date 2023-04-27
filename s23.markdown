@@ -381,7 +381,7 @@ This course covers fundamental techniques to build ZKP protocols, tools to imple
 | Assignment            | Released  | Deadline
 | :-- | :-- | :--
 | [Lab](https://github.com/rdi-berkeley/zkp-mooc-lab) ([Submission](https://docs.google.com/forms/d/e/1FAIpQLSfn4TkmMEdWWBHqaKOtoEGUGsOHqlUYVhQ7NTICfOcyL9ltzw/viewform)) | 02/28     | 03/13
-| [HW](https://forms.gle/Pyi8o4asWy1XJGZE8) ([Solutions](https://rdi.berkeley.edu/zkp-course/assets/HW-solutions.pdf))    | 04/04     | 04/17
+| [HW](https://zk-learning.org/assets/ZKP_HW.pdf) ([Solutions](https://zk-learning.org/assets/HW-solutions.pdf))    | 04/04     | 04/17
 
 ## Class Start Date
 January 17, 2023
