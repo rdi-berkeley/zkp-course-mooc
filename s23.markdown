@@ -303,6 +303,7 @@ permalink: /
              <br> 
              Building opcode compatible zk EVMs
              | <a href = "https://youtu.be/Crzw7ccuHd0"> Lecture </a>
+             | <a href = "{{site.baseurl}}/assets/lecture_opcode.pdf"> Slides </a>
              
           </td>
       </tr>
