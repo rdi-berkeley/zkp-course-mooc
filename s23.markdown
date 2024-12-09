@@ -7,7 +7,7 @@ permalink: /
 <!-- # CS294 Zero Knowledge Proofs -->
 <div style="border: 2px solid #4CAF50; padding: 10px; background-color: #E9F8E8;">
     <p style="font-size: 30px; font-weight: bold; color: #4CAF50;">Announcement:</p>
-    <p style="font-size: 25px; color: #333;">Sign up and learn more about the ZKP/Web3 Hackathon <a href="https://zk-learning.org/zkp-web3-hackathon" style="color: #4CAF50; font-weight: bold;">here</a>!</p>
+    <p style="font-size: 25px; color: #333;">Sign up and learn more about the ZKP/Web3 Hackathon <a href="https://rdi.berkeley.edu/zkp-web3-hackathon" style="color: #4CAF50; font-weight: bold;">here</a>!</p>
 </div>
 <br>
 - To sign up for the course, please fill in this [form](https://docs.google.com/forms/d/e/1FAIpQLSepJTYKc9iJycBsnywFCo9PLIq1SjbSsWIBlqfWAZGPXHrk3Q/viewform).
@@ -396,7 +396,7 @@ This course covers fundamental techniques to build ZKP protocols, tools to imple
 | Assignment            | Released  | Deadline
 | :-- | :-- | :--
 | [Lab](https://github.com/rdi-berkeley/zkp-mooc-lab) ([Submission](https://docs.google.com/forms/d/e/1FAIpQLSfn4TkmMEdWWBHqaKOtoEGUGsOHqlUYVhQ7NTICfOcyL9ltzw/viewform)) | 02/28     | 03/13
-| [HW](https://zk-learning.org/assets/ZKP_HW.pdf) ([Solutions](https://zk-learning.org/assets/HW-solutions.pdf))    | 04/04     | 04/17
+| [HW](https://rdi.berkeley.edu/zk-learning/assets/ZKP_HW.pdf) ([Solutions](https://rdi.berkeley.edu/zk-learning/assets/HW-solutions.pdf))    | 04/04     | 04/17
 
 ## Class Start Date
 January 17, 2023
